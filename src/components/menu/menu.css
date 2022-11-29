@@ -10,17 +10,10 @@
 .menu a{
     text-decoration: none;
 }
-
-.social{
-    margin-right: 14px;
-    display: flex;
-    align-items: center;
-}
-
 .menu-item{
     color: #000;
     background-color: #FFF;
     padding: 12px 24px;
-    border-radius: 4px;
-    margin-right: 14px;
+    border-radius: 40px;
+    margin-top: 50px;
 }
